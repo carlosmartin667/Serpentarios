@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/Serpentarios/v16
+*.json
+*.sqlite
+/Serpentarios/.vs/Serpentarios/v16/Server/sqlite3
+/Serpentarios/.vs/Serpentarios/v16
